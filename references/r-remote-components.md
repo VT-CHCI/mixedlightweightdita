@@ -2,7 +2,7 @@
 
 The remote control has components that allow you to program and operate the light bulbs on your lighting network.
 
-![Front and back of remote control](images/remote-control-callouts.png "Front and back of remote control")
+![Front and back of remote control](../images/remote-control-callouts.png "Front and back of remote control")
 
 |\#|Component|Description|
 |--|---------|-----------|
@@ -14,4 +14,3 @@ The remote control has components that allow you to program and operate the ligh
 |6|All group numbers|Button that you press to select all lighting groups to operate at the same time.|
 |7|Battery compartment|Compartment on the back that holds 2 AA batteries to power the remote control. When batteries run low, the indicator light on the power button periodically flashes amber.|
 |8|Reset button|Button that you press to manage the remote control as follows: Press and release 3 times to connect the remote control to a lighting network that already exists \(for example, if you are replacing a remote control\).Press and hold for 10 seconds to reset the remote control and all lighting group programming on it. **Warning:** If you reset the remote control, you must reprogram all lighting groups on it.|
-

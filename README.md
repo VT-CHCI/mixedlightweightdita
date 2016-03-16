@@ -3,7 +3,7 @@
 Michael Priestley, Carlos Evia, and Jennifer Schlotfeldt
 
 - Introductory topic and concepts in HDITA
-- Tasks in DITA XML (should be XDITA)
+- Tasks in DITA XML and XDITA)
 - References in MarkDITA.
 
 
