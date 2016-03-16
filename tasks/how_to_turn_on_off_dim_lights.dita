@@ -1,35 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE task PUBLIC "-//OASIS//DTD DITA General Task//EN" "generalTask.dtd">
-<task id="how_to_turn_on_off_dim_lights" xml:lang="en-us">
+<task id="turn-on-off-dim-lights" xml:lang="en-us">
     <title>Turning On/Off or Dimming a Lights</title>
     <shortdesc>You can turn on, turn off, or dim a lighting group by pressing the group number
         button and then pressing the power button or the dimmer control.</shortdesc>
-    <prolog>
-        <author>Kevin Lewis</author>
-        <copyright>
-            <copyryear year="2015"/>
-            <copyrholder>Remote Lighting Enterprises</copyrholder>
-        </copyright>
-        <metadata>
-            <keywords>
-                <indexterm>light bulbs<indexterm>dimming</indexterm><indexterm>turning on and
-                        off</indexterm></indexterm>
-                <indexterm>dimming lights</indexterm>
-                <indexterm>turning on and off lights</indexterm>
-                <indexterm>lighting groups<indexterm>dimming</indexterm><indexterm>turning on and
-                        off</indexterm></indexterm>
-            </keywords>
-        </metadata>
-    </prolog>
-    <taskbody>
+     <taskbody>
         <context>You must turn on, turn off, or dim an entire lighting group together. You cannot
             control one individual light bulb in a group (unless only that light bulb is programmed
             to the group).</context>
         <prereq>Before you can operate a lighting group you must <xref
                 href="how_to_program_bulbs_to_groups.dita#how_to_program_bulbs_to_groups">program
                 the network light bulbs</xref> you want included in that lighting group.</prereq>
-        <steps id="steps_bh5_zlq_3r">
-            <stepsection>To turn on, turn off, or dim lights:</stepsection>
+        <steps>
             <step>
                 <cmd>Select the lighting group(s) you want to operate:</cmd>
                 <info>
@@ -37,7 +19,7 @@
                         lighting group button for longer than 4 seconds. Doing so activates light
                         bulb programming for the selected lighting group.</note>
                 </info>
-                <choicetable id="choicetable_nsk_5by_3r">
+                <choicetable>
                     <chhead>
                         <choptionhd>For this situation...</choptionhd>
                         <chdeschd>Perform this task...</chdeschd>
@@ -75,7 +57,7 @@
             </step>
             <step>
                 <cmd>Turn on, turn off, or dim the lighting group:</cmd>
-                <choicetable id="choicetable_zpb_m4q_3r">
+                <choicetable>
                     <chhead>
                         <choptionhd>For this lighting result...</choptionhd>
                         <chdeschd>Perform this task...</chdeschd>
