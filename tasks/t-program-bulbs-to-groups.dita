@@ -1,25 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE task PUBLIC "-//OASIS//DTD DITA Task//EN" "task.dtd">
-<task id="how_to_program_bulbs_to_groups" xml:lang="en-us">
+<task id="program-bulbs-to-groups" xml:lang="en-us">
     <title>Programming Light Bulbs to a Lighting Group</title>
     <shortdesc>You can program one or more light bulbs to a lighting group to operate that group
         with your remote control.</shortdesc>
-    <prolog>
-        <author>Kevin Lewis</author>
-        <copyright>
-            <copyryear year="2015"/>
-            <copyrholder>Remote Lighting Enterprises</copyrholder>
-        </copyright>
-        <metadata>
-            <keywords>
-                <indexterm>lighting group<indexterm>programming for light
-                    bulbs</indexterm></indexterm>
-                <indexterm>programming a lighting group</indexterm>
-                <indexterm>light bulbs<indexterm>programming to lighting
-                    group</indexterm></indexterm>
-            </keywords>
-        </metadata>
-    </prolog>
+   
     <taskbody>
         <context>
             <p>Your remote control can manage up to 250 network light bulbs on the same lighting
@@ -30,7 +15,6 @@
                     the remote control.</note></p>
         </context>
         <steps>
-            <stepsection>To program light bulbs to a lighting group:</stepsection>
             <step>
                 <cmd>Make sure your remote control is in range of the light bulbs you are
                     adding.</cmd>
