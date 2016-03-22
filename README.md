@@ -11,6 +11,7 @@ Demo content for [CMS/DITA NA presentation](http://cm-strategies.com/day1-agenda
 - References in MarkDITA
 - DITAMAP
 - Plugins for HDITA, XDITA, and MarkDITA transformation
+- `Out` folder with HTML5 and PDF deliverables.
 
 ## Credits
 
