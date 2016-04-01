@@ -10,11 +10,12 @@ Demo content for [CMS/DITA NA presentation](http://cm-strategies.com/day1-agenda
 - Tasks in DITA and XDITA
 - References in MarkDITA
 - DITAMAP
-- Plugins for HDITA, XDITA, and MarkDITA transformation
 - `Out` folder with HTML5 and PDF deliverables.
 
 ## Credits
 
 - Content: Kevin Lewis and Carlos Evia
 - Plugins: Michael Priestley, Mark Giffin, and Jarno Elovirta.
-
+    - [HDITA Plugin](https://github.com/jelovirt/com.elovirta.dita.html)
+    - [MarkDITA Plugin](https://github.com/jelovirt/dita-ot-markdown)
+    - [XDITA Plugin](https://github.com/oasis-open/dita-lightweight) *Coming soon!*
