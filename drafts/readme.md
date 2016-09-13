@@ -33,13 +33,50 @@ In XDITA,
 ~~~~~~~
 
 ----
-In HDITA,
+In HDITA as generic topic,
 
 ~~~~~~~
 ---
+title:  This is the title # We can have a title here... but we need our h1
 author: Unknown
-tags:
- - Italian
+keywords: Italian
+---
+
+<article id="t-marinara">
+ <h1>Marinara sauce</h1>
+ <p>Prepare a crowd-pleasing red sauce for pasta in about 30 minutes.</p>
+<section>
+ <ul>
+   <li><p>2 tbsp. of olive oil</p></li>
+   <li><p>2 cloves of garlic, minced</p></li>
+   <li><p>1/2 tsp. of hot red pepper</p></li>
+   <li><p>28 oz. of canned tomatoes, preferably San Marzano</p></li>
+   <li><p>2 tbsp. of parsley, chopped</p></li>
+ </ul>
+</section>
+
+ <section>
+ <ol>
+   <li><p>Heat olive oil in a large saucepan on medium</p></li>
+   <li><p>Add garlic and hot red pepper and sweat until fragrant</p></li>
+   <li><p>Add tomatoes, breaking up into smaller pieces</p></li>
+   <li><p>Simmer on medium-low heat for at least 20 minutes</p></li>
+   <li><p>Add parsley</p></li>
+   <li><p>Simmer for another five minutes</p></li>
+   <li><p>Serve over long pasta.</p></li>
+ </ol>
+ </section>
+
+ </article>
+~~~~~~~
+
+In HDITA as specialized task,
+
+~~~~~~~
+---
+title:  This is the title # We can have a title here... but we need our h1
+author: Unknown
+keywords: Italian
 ---
 
 <article data-hd-class="task" id="t-marinara">
@@ -71,20 +108,20 @@ tags:
 ~~~~~~~
 
 ----
-In MDITA,
+In MDITA (rough draft),
 
 ~~~~~~~
 ---
- author: Unknown
- tags:
-   - Italian
- id: t-marinara
- type: task
+title:  This is the title # We can have a title here...
+author: Unknown
+keywords: Italian
+template: task # this calls a template file for validation and generated subtitles
 ---
 
 # Marinara Sauce
 
-Prepare a crowd-pleasing red sauce for pasta in about 30 minutes.
+Prepare a crowd-pleasing red sauce for pasta in about 30 minutes. <!-- Template will treat this as a shortesc if specified -->
+
  -   2 tbsp. of olive oil
  -   2 cloves of garlic, minced
  -   1/2 tsp. of hot red pepper
