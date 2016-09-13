@@ -44,7 +44,9 @@ keywords: Italian
 
 <article id="t-marinara">
  <h1>Marinara sauce</h1>
+
  <p>Prepare a crowd-pleasing red sauce for pasta in about 30 minutes.</p>
+
 <section>
  <ul>
    <li><p>2 tbsp. of olive oil</p></li>
@@ -81,7 +83,9 @@ keywords: Italian
 
 <article data-hd-class="task" id="t-marinara">
  <h1>Marinara sauce</h1>
+
  <p>Prepare a crowd-pleasing red sauce for pasta in about 30 minutes.</p>
+
 <section data-hd-class="task/prereq">
  <ul>
    <li><p>2 tbsp. of olive oil</p></li>
@@ -115,7 +119,7 @@ In MDITA (rough draft),
 title:  This is the title # We can have a title here...
 author: Unknown
 keywords: Italian
-template: task # this calls a template file for validation and generated subtitles
+template: task # this calls a template file for validation and generated subheadings
 ---
 
 # Marinara Sauce
