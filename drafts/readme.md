@@ -10,6 +10,8 @@ In XDITA,
    <body>
      <p>Prepare a crowd-pleasing red sauce for pasta in about 30 minutes.</p>
 
+     <section>
+     <title>Ingredients</title>
      <ul>
        <li><p>2 tbsp. of olive oil</p></li>
        <li><p>2 cloves of garlic, minced</p></li>
@@ -17,7 +19,10 @@ In XDITA,
        <li><p>28 oz. of canned tomatoes, preferably San Marzano</p></li>
        <li><p>2 tbsp. of parsley, chopped</p></li>
      </ul>
+     </section>
 
+     <section>
+     <title>Preparation</title>
      <ol>
        <li><p>Heat olive oil in a large saucepan on medium</p></li>
        <li><p>Add garlic and hot red pepper and sweat until fragrant</p></li>
@@ -27,6 +32,7 @@ In XDITA,
        <li><p>Simmer for another five minutes</p></li>
        <li><p>Serve over long pasta.</p></li>
      </ol>
+     </section>
 
    </body>
  </topic>
@@ -47,7 +53,7 @@ keywords: Italian
 
  <p>Prepare a crowd-pleasing red sauce for pasta in about 30 minutes.</p>
 
-<section>
+<h2>Ingredients</h2>
  <ul>
    <li><p>2 tbsp. of olive oil</p></li>
    <li><p>2 cloves of garlic, minced</p></li>
@@ -55,9 +61,8 @@ keywords: Italian
    <li><p>28 oz. of canned tomatoes, preferably San Marzano</p></li>
    <li><p>2 tbsp. of parsley, chopped</p></li>
  </ul>
-</section>
 
- <section>
+ <h2>Preparation</h2>
  <ol>
    <li><p>Heat olive oil in a large saucepan on medium</p></li>
    <li><p>Add garlic and hot red pepper and sweat until fragrant</p></li>
@@ -67,7 +72,6 @@ keywords: Italian
    <li><p>Simmer for another five minutes</p></li>
    <li><p>Serve over long pasta.</p></li>
  </ol>
- </section>
 
  </article>
 ~~~~~~~
@@ -87,6 +91,7 @@ keywords: Italian
  <p>Prepare a crowd-pleasing red sauce for pasta in about 30 minutes.</p>
 
 <section data-hd-class="task/prereq">
+<h2>Ingredients</h2>
  <ul>
    <li><p>2 tbsp. of olive oil</p></li>
    <li><p>2 cloves of garlic, minced</p></li>
@@ -97,6 +102,7 @@ keywords: Italian
 </section>
 
  <section data-hd-class="task/steps-informal">
+ <h2>Preparation</h2>
  <ol>
    <li><p>Heat olive oil in a large saucepan on medium</p></li>
    <li><p>Add garlic and hot red pepper and sweat until fragrant</p></li>
@@ -126,12 +132,14 @@ template: task # this calls a template file for validation and generated subhead
 
 Prepare a crowd-pleasing red sauce for pasta in about 30 minutes. <!-- Template will treat this as a shortesc if specified -->
 
+## Ingredients
  -   2 tbsp. of olive oil
  -   2 cloves of garlic, minced
  -   1/2 tsp. of hot red pepper
  -   28 oz. of canned tomatoes, preferably San Marzano
  -   2 tbsp. of parsley, chopped
 
+## Preparation
  1.   Heat olive oil in a large saucepan on medium
  2.   Add garlic and hot red pepper and sweat until fragrant
  3.   Add tomatoes, breaking up into smaller pieces
