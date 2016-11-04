@@ -1,6 +1,6 @@
-# Product Specifications {.reference}
+# Product Specifications {#product-specs}
 
-The [product-name] components have specific electronic and technical specifications.
+The <span data-hd-keyref="product-name" />components have specific electronic and technical specifications.
 
 The components in your lighting network have electronic and technical specifications that are specific to the component type.
 

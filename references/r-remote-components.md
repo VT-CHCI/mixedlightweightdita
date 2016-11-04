@@ -1,6 +1,6 @@
-# Remote Control Components {.reference}
+# Remote Control Components {#remote-components}
 
-The remote control of your [product-name] has components that allow you to program and operate the light bulbs on your lighting network.
+The remote control of your <span data-hd-keyref="product-name" /> has components that allow you to program and operate the light bulbs on your lighting network.
 
 ![Front and back of remote control](../images/remote-control-callouts.png "Front and back of remote control")
 

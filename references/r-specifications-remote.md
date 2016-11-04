@@ -1,4 +1,4 @@
-# Remote Control Specifications {.reference}
+# Remote Control Specifications {#remote-specs}
 
 Specifications describing the electronics and technology inside the remote control.
 
@@ -9,3 +9,5 @@ Specifications describing the electronics and technology inside the remote contr
 |Groups|4 + All|
 |Indicators|LED Status Indicators and Group Selection Indicators|
 |Lifetime|\>18 Months with Alkaline Batteries|
+
+<p data-hd-conref="intro-product.html#intro-product/warning" />
