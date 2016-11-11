@@ -1,6 +1,6 @@
 # LED Light Bulb Specifications {#led-specifications}
 
-Specifications describing the electronics and technology inside the LED light bulb.
+<p data-hd-class="shortdesc">Specifications describing the electronics and technology inside the LED light bulb.</p>
 
 |Feature|Specification|
 |-------|-------------|

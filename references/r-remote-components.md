@@ -1,6 +1,6 @@
 # Remote Control Components {#remote-components}
 
-The remote control of your <span data-hd-keyref="product-name" /> has components that allow you to program and operate the light bulbs on your lighting network.
+<p data-hd-class="shortdesc">The remote control of your <span data-hd-keyref="product-name" /> has components that allow you to program and operate the light bulbs on your lighting network.</p>
 
 ![Front and back of remote control](../images/remote-control-callouts.png "Front and back of remote control")
 

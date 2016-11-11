@@ -1,6 +1,6 @@
 # Remote Control Specifications {#remote-specs}
 
-Specifications describing the electronics and technology inside the remote control.
+<p data-hd-class="shortdesc">Specifications describing the electronics and technology inside the remote control.</p>
 
 |Feature|Specification|
 |-------|-------------|
