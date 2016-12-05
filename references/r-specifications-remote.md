@@ -1,4 +1,8 @@
-# Remote Control Specifications {#remote-specs}
+---
+id: remote-specs
+---
+
+# Remote Control Specifications
 
 <p data-hd-class="shortdesc">Specifications describing the electronics and technology inside the remote control.</p>
 

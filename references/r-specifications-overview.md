@@ -1,4 +1,8 @@
-# Product Specifications {#product-specs}
+---
+id: product-specs
+---
+
+# Product Specifications
 
 <p data-hd-class="shortdesc">The <span data-hd-keyref="product-name" />components have specific electronic and technical specifications.</p>
 
