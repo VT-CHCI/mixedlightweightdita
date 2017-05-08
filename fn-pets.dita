@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE topic PUBLIC "-//OASIS//DTD XDITA Topic//EN" "topic.dtd">
+<topic id="topic">
+  <title>Pets</title>
+  <shortdesc>This is a topic about pets</shortdesc>
+  <body>
+    <fn id="reuse-fn"><p>This is the name of an animal</p></fn>
+    <p>I like pets.  At my house, I have a dog<xref href="#topic/reuse-fn" />, a cat<xref href="#topic/reuse-fn" />, and a 
+    llama<xref href="#topic/reuse-fn"/>.</p>
+  </body>
+</topic>
+
